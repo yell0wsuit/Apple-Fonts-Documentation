@@ -49,7 +49,7 @@ Those fonts can be downloaded from https://developer.apple.com/fonts. Last updat
 ## SF Mono
 > This monospaced variant of San Francisco enables alignment between rows and columns of text, and is used in coding environments like Xcode. SF Mono features six weights and supports Latin, Greek, and Cyrillic scripts.
 
-It was introduced at WWDC 2016. There are 6 weights with italic variant. It used to have a variable format without italic (as of August 11, 2020); however, it was removed on August 28, 2020.
+It was introduced at WWDC 2016. There are 6 weights with italic variant. It used to have a variable format (as of August 11, 2020); however, it was removed on August 28, 2020.
 
 **Variable version** (predefined values):
 <table><thead><tr><th>Weight name</th><th>Weight value</th><th>Assigned YAXS value</th></tr></thead><tbody><tr><td>Light</td><td>294.6731</td><td>294.6731</td></tr><tr><td>Regular</td><td>400</td><td>324.3341</td></tr><tr><td>Medium</td><td>483.5351</td><td>320.7022</td></tr><tr><td>Semibold</td><td>571.3075</td><td>324.9394</td></tr><tr><td>Bold</td><td>683.293</td><td>335.8353</td></tr><tr><td>Heavy</td><td>900</td><td>294.6731</td></tr></tbody></table>
