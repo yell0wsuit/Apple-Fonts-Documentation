@@ -1,6 +1,8 @@
 # Apple fonts documentation (WIP)
 This repo documents Apple fonts found in Apple's official websites and its platforms. This is a work-in-progress (WIP).
 
+You can also check the Wiki for [FAQs](https://github.com/yell0wsuit/Apple-Fonts-Documentation/wiki/FAQs).
+
 ## SF Pro
 > This neutral, flexible, sans-serif typeface is the system font for iOS, iPad OS, macOS and tvOS. SF Pro features nine weights, variable optical sizes for optimal legibility, and includes a rounded variant. SF Pro supports over 150 languages across Latin, Greek, and Cyrillic scripts.
 
